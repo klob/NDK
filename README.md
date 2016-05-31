@@ -7,7 +7,7 @@
 ##6.OpenSSL1.1cForAndroid  OpenSSL编译，较为复杂的例子  
 
 
-###以上案例假设你你已经得出以下结果  
+###以上案例假设你已经得出以下结果  
 ```java  
 
 H:\opensourcepro\NDK>ndk-build  
